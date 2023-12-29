@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuqaiselegant" alt="abuqaiselegant" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Spring boot,**
+- 🌱 I’m currently learning **Java, DSA, Spring boot ....**
 
 - 📝 I regularly write articles on [https://medium.com/@abuqaiselegant](https://medium.com/@abuqaiselegant)
 
