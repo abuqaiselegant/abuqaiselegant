@@ -1,7 +1,7 @@
 ![Header](https://github.com/abuqaiselegant/abuqaiselegant/blob/main/github-header-image.png)
 
 
-<h1 align="center">Hi 👋, I'm Abu Qais</h1>
+<h1 align="center">Pain or Regret</h1>
 <h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuqaiselegant&label=Profile%20views&color=0e75b6&style=flat" alt="abuqaiselegant" /> </p>
