@@ -5,7 +5,7 @@
 
 
 
-I'm a **Data Science Master's student** at the University of Nottingham, passionate about **Development, AI, and Statistics**. I enjoy solving real-world problems with data-driven insights.  
+I'm a **Computer Science Master's student** at the University of Nottingham, passionate about **Development, ML, AI, and Statistics**. Driven to explore the deep questions life throws my way...  
 
 
 ---
