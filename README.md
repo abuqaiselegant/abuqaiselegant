@@ -37,6 +37,4 @@ I'm a **Computer Science Master's student** at the University of Nottingham, pas
 
 <p align ="center"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=abuqaiselegant&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="abuqaiselegant" /></p>
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuqaiselegant&show_icons=true&locale=en" alt="abuqaiselegant" /></p>
-
 <p align ="center"><img src="https://streak-stats.demolab.com?user=abuqaiselegant&theme=github-dark&hide_border=true" alt="GitHub Streak" /></p>
