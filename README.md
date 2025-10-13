@@ -1,7 +1,7 @@
 
 # 🚀 Hello, nice to meet you! I'm Abu Qais!  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=A8F7EF&width=1000&lines=a+developer+who+loves+turning+complex+ideas+into+real-world+applications.;Software+Developer+%7C+AI+Engineer+%7C+Designing+Scalable+and+Intelligent+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=F79A8C&width=1000&lines=A+developer+who+loves+turning+complex+ideas+into+real-world+applications.;Software+Developer+%7C+AI+Engineer+%7C+Designing+Scalable+and+Intelligent+Systems.)](https://git.io/typing-svg)
 
 ---
 
