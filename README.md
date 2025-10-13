@@ -1,19 +1,14 @@
+
 # 🚀 Hello, nice to meet you! I'm Abu Qais!  
 
-
-<img align="right" src="https://github.com/abuqaiselegant/abuqaiselegant/blob/main/173976304939387372.jpeg" width="300" />
-
-
-
-I'm a **Computer Science Master's student** at the University of Nottingham, passionate about **Development, ML, AI, and Statistics**. Driven to explore the deep questions life throws my way...  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=A8F7EF&width=1000&lines=a+developer+who+loves+turning+complex+ideas+into+real-world+applications.;Software+Developer+%7C+AI+Engineer+%7C+Designing+Scalable+and+Intelligent+Systems.)](https://git.io/typing-svg)
 
 ---
 
 <h3 align="left">👨‍💻 AMBITION MUST BE FED WITH ACTIONS</h3>
 
-- 💡 Currently exploring **Machine Learning, Python, and Statistics**.  
-- 💬 Ask me about **Java, Python, ML, Data Science, and Statistics**.  
+- 🚀 Focused on **LLMs, Machine Learning, Backend Engineering, and Scalable AI Systems**.
+- 💬 Skilled in **Python, Java, System Design, Data Science, and Statistics**.
 - [![LeetCode user abuqaiselegant](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabuqaiselegant&logo=leetcode&logoColor=yellow)](https://leetcode.com/abuqaiselegant/)
 
 <h3 align="left">Connect with me:</h3>
