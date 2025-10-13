@@ -22,7 +22,9 @@
 
 <a href="https://medium.com/@abuqaiselegant" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
-
+  <a href="https://drive.google.com/file/d/1oUe0LSEhNLprbV0QlHEUdgiF4UKCK2zL/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 
     
 </p>
