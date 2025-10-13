@@ -32,6 +32,7 @@ I'm a **Computer Science Master's student** at the University of Nottingham, pas
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 
