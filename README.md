@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="aq.qais007@gmail.com">
+<a href="mailto:abuqaiselegant@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://www.linkedin.com/in/abuqais/" target="_blank">
