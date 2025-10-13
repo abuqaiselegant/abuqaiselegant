@@ -34,6 +34,8 @@ I'm a **Computer Science Master's student** at the University of Nottingham, pas
 <h3 align="left">Languages and Tools:</h3>
 
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 <p align ="center"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=abuqaiselegant&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="abuqaiselegant" /></p>
