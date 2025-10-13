@@ -80,8 +80,14 @@ I'm a **Computer Science Master's student** at the University of Nottingham, pas
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+---
+
+<h3 align="left">My Stats:</h3>
 
 <p align ="center"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=abuqaiselegant&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="abuqaiselegant" /></p>
 
