@@ -14,20 +14,22 @@ I'm a **Computer Science Master's student** at the University of Nottingham, pas
 
 - 💡 Currently exploring **Machine Learning, Python, and Statistics**.  
 - 💬 Ask me about **Java, Python, ML, Data Science, and Statistics**.  
-- 📝 I *occasionally* write articles on **[Medium](https://medium.com/@abuqaiselegant)**.  
-- 📧 Reach me at **abuqaiselegant@gmail.com**.
+- [![LeetCode user abuqaiselegant](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabuqaiselegant&logo=leetcode&logoColor=yellow)](https://leetcode.com/abuqaiselegant/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="aq.qais007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/abuqais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abuqais/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abuqais/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-<a href="https://www.kaggle.com/abuqais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abuqais" height="30" width="40" /></a>
-<a href="https://medium.com/@abuqaiselegant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@abuqaiselegant" height="30" width="40" /></a>
+
+<a href="https://medium.com/@abuqaiselegant" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
+
+
+    
 </p>
 
 
