@@ -34,6 +34,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuqaiselegant&label=Profile%20views&color=0e75b6&style=flat" alt="abuqaiselegant" /> </p>
 <p align="left"> <a href="https://github.com/abuqaiselegant/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuqaiselegant&theme=github_dark" alt="abuqaiselegant" /></a> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abuqaiselegant)](https://github.com/abuqaiselegant/github-profile-trophy)    
 </p>
 
 ---
