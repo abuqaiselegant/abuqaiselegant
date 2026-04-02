@@ -94,7 +94,6 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p align ="center"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=abuqaiselegant&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="abuqaiselegant" /></p>
 
 <p align ="center"><img src="https://streak-stats.demolab.com?user=abuqaiselegant&theme=github-dark&hide_border=true" alt="GitHub Streak" /></p>
 
